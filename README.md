@@ -1,5 +1,7 @@
 # Rails Scaffold
 
+Heroku link: https://afternoon-stream-7651.herokuapp.com/
+
 ## Stories
 
 **Users can CRUD people**
